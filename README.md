@@ -26,7 +26,7 @@ I am a passionate **Programming Teacher and Full Stack Developer** dedicated to 
     </td>
     <td valign="top" width="40%">
       <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=OEUBROCHOM&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+        <img src="https://avatars.githubusercontent.com/u/175663048?s=400&u=24eeec1d8232fec69bdb7aad8c114c9b69bf31be&v=4" alt="GitHub Stats" />
       </div>
     </td>
   </tr>
